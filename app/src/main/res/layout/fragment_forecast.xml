@@ -6,8 +6,7 @@
     tools:context=".ForecastFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <TextView   
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/Forecast fragment to be updated" />
+        android:layout_height="match_parent"></TextView>
 </FrameLayout>
